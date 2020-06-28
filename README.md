@@ -20,19 +20,7 @@ curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
 sudo apt-get install -y nodejs
 ```
 
-## Run Dev Server
 
-https://nextjs.org/learn/basics/create-nextjs-app/setup
-Pull test app
-
-```shell
-npm init next-app nextjs-blog --example "https://github.com/vercel/next-learn-starter/tree/master/learn-starter"
-
-cd nextjs-blog
-npm run dev
-```
-
-    http://localhost:3000
 
 ## Next JS Dir Layout
 
@@ -46,6 +34,10 @@ npm run dev
 
 
 ##  General React tutorial...
+
+### What is React
+
+React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”.
 
 ```md
 Success! Created my-app at /mnt/c/Users/jb022223/GitHub/nextjs/my-app
@@ -72,9 +64,22 @@ We suggest that you begin by typing:
 Happy hacking!
 ```
 
+## Next.js
+
+https://nextjs.org/learn/basics/create-nextjs-app/setup
+Pull test app
+
+```shell
+npm init next-app nextjs-blog --example "https://github.com/vercel/next-learn-starter/tree/master/learn-starter"
+
+cd nextjs-blog
+npm run dev
+```
+
+  http://localhost:3000
 
 
-## Check this out
+## References
 
 https://tailwindcss.com/
 
@@ -82,9 +87,7 @@ https://tailwindcss.com/
 npm install tailwindcss postcss-preset-env postcss-flexbugs-fixes
 ```
 
-https://sass-lang.com/  
-
-    Popular CSS framework
+https://sass-lang.com/   Popular CSS framework
 
 https://reactjs.org/tutorial/tutorial.html
 
