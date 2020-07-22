@@ -20,8 +20,6 @@ curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
 sudo apt-get install -y nodejs
 ```
 
-
-
 ## Next JS Dir Layout
 
 - Root
@@ -40,7 +38,7 @@ sudo apt-get install -y nodejs
 React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”.
 
 ```md
-Success! Created my-app at /mnt/c/Users/jb022223/GitHub/nextjs/my-app
+Success! Created my-app at /mnt/c/Users/me/GitHub/nextjs/my-app
 Inside that directory, you can run several commands:
 
   npm start
